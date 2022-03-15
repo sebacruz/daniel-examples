@@ -1,0 +1,15 @@
+/Users/sebas/Sites/daniel-examples/c-sharp/basic/bin/Debug/net6.0/basic
+/Users/sebas/Sites/daniel-examples/c-sharp/basic/bin/Debug/net6.0/basic.deps.json
+/Users/sebas/Sites/daniel-examples/c-sharp/basic/bin/Debug/net6.0/basic.runtimeconfig.json
+/Users/sebas/Sites/daniel-examples/c-sharp/basic/bin/Debug/net6.0/basic.dll
+/Users/sebas/Sites/daniel-examples/c-sharp/basic/bin/Debug/net6.0/ref/basic.dll
+/Users/sebas/Sites/daniel-examples/c-sharp/basic/bin/Debug/net6.0/basic.pdb
+/Users/sebas/Sites/daniel-examples/c-sharp/basic/obj/Debug/net6.0/basic.csproj.AssemblyReference.cache
+/Users/sebas/Sites/daniel-examples/c-sharp/basic/obj/Debug/net6.0/basic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sebas/Sites/daniel-examples/c-sharp/basic/obj/Debug/net6.0/basic.AssemblyInfoInputs.cache
+/Users/sebas/Sites/daniel-examples/c-sharp/basic/obj/Debug/net6.0/basic.AssemblyInfo.cs
+/Users/sebas/Sites/daniel-examples/c-sharp/basic/obj/Debug/net6.0/basic.csproj.CoreCompileInputs.cache
+/Users/sebas/Sites/daniel-examples/c-sharp/basic/obj/Debug/net6.0/basic.dll
+/Users/sebas/Sites/daniel-examples/c-sharp/basic/obj/Debug/net6.0/ref/basic.dll
+/Users/sebas/Sites/daniel-examples/c-sharp/basic/obj/Debug/net6.0/basic.pdb
+/Users/sebas/Sites/daniel-examples/c-sharp/basic/obj/Debug/net6.0/basic.genruntimeconfig.cache
